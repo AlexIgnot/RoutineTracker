@@ -1,6 +1,6 @@
-Charly no te debrayes :p
+#Charly no te debrayes :p
 
-Acá van los enlaces que les serán de ayuda :) 
+##Acá van los enlaces que les serán de ayuda :) 
 
 -Comandos para la terminal (secciones help, file, directory: https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/linuxcommands.pdf
 -Introducción apis: https://docs.google.com/presentation/d/1EAzaEWwT7eZvFAe7EpurZYLg7v225mt8fZJko_K2A6k/edit#slide=id.p
